@@ -15,4 +15,8 @@ p{
 }
 #conteudo{
     display: flex;
+    margin-left: 200px;
+}
+#imagem1{
+    margin-left: 100px;
 }
